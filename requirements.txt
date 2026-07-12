@@ -1,0 +1,5 @@
+requests #requests - запросы (интернет)
+beautifulsoup4 #библиотека для вёрстки, разбирает html страницы
+lxml #быстрый парсер
+pandas #работа с экселем
+openpyxl
